@@ -42,7 +42,9 @@ while not end:
         elif again == "no":
                 end=True
                 print("Goodbye")
+                break
         else:
                 print("I don't understand")
+                break
 
 
